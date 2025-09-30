@@ -1,0 +1,594 @@
+TransactionID,Date,DayOfWeek,Time,Item,Quantity, Price , TotalAmount ,PaymentMethod,CustomerType
+1001,04-03-2023,Saturday,08:54,Coffee,3, $3.00 ,9,Card,Regular
+1002,17-01-2023,Tuesday,09:22,Sandwich,1, $5.00 ,5,Online,New
+1003,14-03-2023,Tuesday,16:18,Tea,3, $2.50 ,7.5,Card,Regular
+1004,02-02-2023,Thursday,08:35,Juice,1, $3.00 ,3,Online,Regular
+1005,25-03-2023,Saturday,16:34,Juice,3, $3.00 ,9,Online,New
+1006,18-03-2023,Saturday,14:09,Juice,2, $3.00 ,6,Online,Regular
+1007,02-04-2023,Sunday,07:06,Bagel,1, $2.00 ,2,Online,Regular
+1008,29-01-2023,Sunday,11:44,Hot Chocolate,1, $3.50 ,3.5,Card,Regular
+1009,13-01-2023,Friday,13:29,Tea,2, $2.50 ,5,Card,Regular
+1010,15-02-2023,Wednesday,07:44,Sandwich,2, $5.00 ,10,Online,Regular
+1011,04-02-2023,Saturday,13:27,Tea,3, $2.50 ,7.5,Card,New
+1012,06-01-2023,Friday,17:33,Brownie,2, $2.50 ,5,Online,Regular
+1013,23-03-2023,Thursday,08:11,Coffee,3, $3.00 ,9,Cash,New
+1014,10-03-2023,Friday,08:21,Cookie,1, $1.50 ,1.5,Cash,Regular
+1015,16-02-2023,Thursday,14:44,Whole Wheat Bread,2, $3.50 ,7,Cash,Regular
+1016,25-01-2023,Wednesday,10:34,Whole Wheat Bread,2, $3.50 ,7,Online,New
+1017,07-03-2023,Tuesday,18:03,Tea,3, $2.50 ,7.5,Online,Regular
+1018,10-01-2023,Tuesday,11:10,Hot Chocolate,2, $3.50 ,7,Card,Regular
+1019,25-02-2023,Saturday,17:55,Sandwich,3, $5.00 ,15,Cash,Regular
+1020,30-01-2023,Monday,07:57,Juice,1, $3.00 ,3,Card,Regular
+1021,05-01-2023,Thursday,08:07,Juice,3, $3.00 ,9,Online,Regular
+1022,02-02-2023,Thursday,18:11,Danish,2, $2.50 ,5,Online,Regular
+1023,06-03-2023,Monday,11:31,Hot Chocolate,1, $3.50 ,3.5,Online,Regular
+1024,18-01-2023,Wednesday,11:29,Sandwich,3, $5.00 ,15,Card,New
+1025,06-04-2023,Thursday,13:48,Muffin,1, $2.00 ,2,Cash,Regular
+1026,18-02-2023,Saturday,08:33,Bagel,1, $2.00 ,2,Cash,Regular
+1027,11-01-2023,Wednesday,09:43,Bagel,3, $2.00 ,6,Card,Regular
+1028,26-03-2023,Sunday,13:34,Donut,3, $1.50 ,4.5,Card,Regular
+1029,26-01-2023,Thursday,16:26,Cookie,1, $1.50 ,1.5,Online,New
+1030,04-03-2023,Saturday,18:38,Brownie,3, $2.50 ,7.5,Card,New
+1031,30-03-2023,Thursday,12:48,Tea,2, $2.50 ,5,Card,Regular
+1032,27-03-2023,Monday,07:03,Sandwich,3, $5.00 ,15,Card,New
+1033,28-02-2023,Tuesday,10:02,Baguette,1, $3.00 ,3,Online,Regular
+1034,27-01-2023,Friday,17:54,Baguette,3, $3.00 ,9,Cash,Regular
+1035,18-02-2023,Saturday,09:45,Baguette,3, $3.00 ,9,Cash,Regular
+1036,18-03-2023,Saturday,15:20,Coffee,1, $3.00 ,3,Card,New
+1037,02-02-2023,Thursday,12:14,Juice,1, $3.00 ,3,Cash,New
+1038,08-04-2023,Saturday,08:20,Tea,3, $2.50 ,7.5,Card,New
+1039,09-04-2023,Sunday,16:05,Bagel,1, $2.00 ,2,Cash,Regular
+1040,01-01-2023,Sunday,16:22,Hot Chocolate,2, $3.50 ,7,Online,New
+1041,21-01-2023,Saturday,14:13,Juice,3, $3.00 ,9,Online,Regular
+1042,24-02-2023,Friday,12:19,Donut,3, $1.50 ,4.5,Online,Regular
+1043,06-01-2023,Friday,15:49,Danish,1, $2.50 ,2.5,Cash,Regular
+1044,02-04-2023,Sunday,12:46,Coffee,3, $3.00 ,9,Online,Regular
+1045,22-03-2023,Wednesday,10:45,Coffee,1, $3.00 ,3,Online,Regular
+1046,10-03-2023,Friday,10:54,Tea,1, $2.50 ,2.5,Card,Regular
+1047,05-04-2023,Wednesday,11:03,Croissant,3, $2.50 ,7.5,Card,Regular
+1048,05-01-2023,Thursday,09:15,Sandwich,3, $5.00 ,15,Online,Regular
+1049,03-01-2023,Tuesday,15:04,Bagel,2, $2.00 ,4,Cash,Regular
+1050,22-02-2023,Wednesday,18:14,Donut,2, $1.50 ,3,Card,Regular
+1051,23-01-2023,Monday,07:55,Whole Wheat Bread,3, $3.50 ,10.5,Online,Regular
+1052,22-02-2023,Wednesday,13:52,Sandwich,2, $5.00 ,10,Cash,Regular
+1053,06-02-2023,Monday,10:14,Baguette,2, $3.00 ,6,Cash,Regular
+1054,15-03-2023,Wednesday,11:45,Danish,1, $2.50 ,2.5,Cash,Regular
+1055,15-03-2023,Wednesday,16:23,Tea,1, $2.50 ,2.5,Online,New
+1056,24-03-2023,Friday,07:15,Tea,1, $2.50 ,2.5,Cash,Regular
+1057,17-01-2023,Tuesday,15:12,Juice,2, $3.00 ,6,Cash,Regular
+1058,26-03-2023,Sunday,07:02,Donut,2, $1.50 ,3,Card,Regular
+1059,19-03-2023,Sunday,18:53,Sandwich,3, $5.00 ,15,Online,New
+1060,14-03-2023,Tuesday,09:38,Juice,2, $3.00 ,6,Cash,New
+1061,01-01-2023,Sunday,16:15,Coffee,3, $3.00 ,9,Card,Regular
+1062,20-02-2023,Monday,16:58,Danish,3, $2.50 ,7.5,Online,Regular
+1063,14-02-2023,Tuesday,15:40,Tea,1, $2.50 ,2.5,Cash,Regular
+1064,18-03-2023,Saturday,18:31,Cookie,1, $1.50 ,1.5,Card,Regular
+1065,04-01-2023,Wednesday,16:43,Juice,3, $3.00 ,9,Online,Regular
+1066,03-03-2023,Friday,08:23,Donut,3, $1.50 ,4.5,Online,Regular
+1067,06-03-2023,Monday,12:23,Brownie,2, $2.50 ,5,Cash,Regular
+1068,01-02-2023,Wednesday,12:21,Juice,2, $3.00 ,6,Card,Regular
+1069,03-02-2023,Friday,18:00,Croissant,2, $2.50 ,5,Card,New
+1070,02-04-2023,Sunday,08:14,Coffee,2, $3.00 ,6,Online,New
+1071,05-04-2023,Wednesday,08:42,Tea,3, $2.50 ,7.5,Cash,Regular
+1072,13-03-2023,Monday,09:15,Brownie,2, $2.50 ,5,Cash,New
+1073,08-02-2023,Wednesday,13:18,Croissant,1, $2.50 ,2.5,Card,New
+1074,26-01-2023,Thursday,19:00,Croissant,3, $2.50 ,7.5,Online,Regular
+1075,03-02-2023,Friday,18:23,Cookie,3, $1.50 ,4.5,Card,New
+1076,23-02-2023,Thursday,08:46,Brownie,1, $2.50 ,2.5,Card,Regular
+1077,03-01-2023,Tuesday,08:49,Sandwich,3, $5.00 ,15,Cash,Regular
+1078,19-02-2023,Sunday,17:19,Juice,3, $3.00 ,9,Card,Regular
+1079,12-01-2023,Thursday,17:49,Cookie,2, $1.50 ,3,Online,Regular
+1080,06-03-2023,Monday,07:52,Tea,3, $2.50 ,7.5,Card,New
+1081,23-02-2023,Thursday,07:45,Coffee,2, $3.00 ,6,Cash,Regular
+1082,05-01-2023,Thursday,11:28,Hot Chocolate,3, $3.50 ,10.5,Card,Regular
+1083,04-04-2023,Tuesday,14:17,Baguette,1, $3.00 ,3,Cash,Regular
+1084,04-04-2023,Tuesday,18:47,Brownie,1, $2.50 ,2.5,Online,Regular
+1085,26-02-2023,Sunday,13:18,Sourdough,3, $4.00 ,12,Cash,Regular
+1086,17-01-2023,Tuesday,07:42,Croissant,2, $2.50 ,5,Cash,New
+1087,16-02-2023,Thursday,10:35,Whole Wheat Bread,1, $3.50 ,3.5,Online,Regular
+1088,23-01-2023,Monday,16:33,Brownie,2, $2.50 ,5,Online,New
+1089,20-03-2023,Monday,11:02,Cookie,1, $1.50 ,1.5,Cash,New
+1090,26-03-2023,Sunday,07:25,Hot Chocolate,3, $3.50 ,10.5,Card,New
+1091,14-01-2023,Saturday,14:01,Bagel,3, $2.00 ,6,Online,New
+1092,07-03-2023,Tuesday,11:33,Hot Chocolate,3, $3.50 ,10.5,Cash,Regular
+1093,16-03-2023,Thursday,07:39,Cookie,2, $1.50 ,3,Cash,Regular
+1094,20-02-2023,Monday,14:51,Muffin,2, $2.00 ,4,Cash,Regular
+1095,07-02-2023,Tuesday,18:15,Juice,2, $3.00 ,6,Card,Regular
+1096,05-03-2023,Sunday,08:11,Bagel,2, $2.00 ,4,Card,Regular
+1097,08-04-2023,Saturday,13:49,Whole Wheat Bread,3, $3.50 ,10.5,Card,New
+1098,07-02-2023,Tuesday,08:58,Brownie,2, $2.50 ,5,Cash,Regular
+1099,19-02-2023,Sunday,11:31,Coffee,1, $3.00 ,3,Online,Regular
+1100,08-04-2023,Saturday,12:21,Donut,3, $1.50 ,4.5,Online,Regular
+1101,23-03-2023,Thursday,16:50,Juice,2, $3.00 ,6,Cash,New
+1102,30-01-2023,Monday,07:01,Baguette,3, $3.00 ,9,Online,New
+1103,20-03-2023,Monday,18:26,Juice,2, $3.00 ,6,Card,Regular
+1104,01-04-2023,Saturday,18:20,Brownie,2, $2.50 ,5,Online,Regular
+1105,20-02-2023,Monday,09:07,Sandwich,2, $5.00 ,10,Online,Regular
+1106,04-03-2023,Saturday,13:58,Muffin,2, $2.00 ,4,Online,Regular
+1107,08-04-2023,Saturday,09:10,Juice,2, $3.00 ,6,Online,New
+1108,21-02-2023,Tuesday,18:33,Sandwich,1, $5.00 ,5,Online,Regular
+1109,07-02-2023,Tuesday,13:55,Baguette,1, $3.00 ,3,Card,Regular
+1110,07-04-2023,Friday,14:20,Bagel,3, $2.00 ,6,Online,Regular
+1111,29-03-2023,Wednesday,14:56,Danish,2, $2.50 ,5,Online,Regular
+1112,20-03-2023,Monday,15:04,Bagel,3, $2.00 ,6,Cash,Regular
+1113,30-01-2023,Monday,11:50,Baguette,3, $3.00 ,9,Online,Regular
+1114,20-02-2023,Monday,08:35,Cookie,1, $1.50 ,1.5,Online,Regular
+1115,22-03-2023,Wednesday,10:23,Hot Chocolate,1, $3.50 ,3.5,Cash,Regular
+1116,05-01-2023,Thursday,15:06,Sourdough,1, $4.00 ,4,Card,Regular
+1117,29-01-2023,Sunday,17:44,Sourdough,1, $4.00 ,4,Online,Regular
+1118,04-01-2023,Wednesday,13:49,Juice,1, $3.00 ,3,Online,Regular
+1119,10-01-2023,Tuesday,08:49,Bagel,2, $2.00 ,4,Cash,Regular
+1120,25-02-2023,Saturday,18:52,Baguette,2, $3.00 ,6,Cash,Regular
+1121,17-01-2023,Tuesday,09:04,Danish,1, $2.50 ,2.5,Card,Regular
+1122,15-03-2023,Wednesday,16:32,Sourdough,2, $4.00 ,8,Card,Regular
+1123,17-01-2023,Tuesday,15:36,Donut,3, $1.50 ,4.5,Card,New
+1124,25-03-2023,Saturday,15:06,Danish,2, $2.50 ,5,Cash,New
+1125,29-03-2023,Wednesday,11:43,Bagel,3, $2.00 ,6,Card,Regular
+1126,10-03-2023,Friday,11:41,Danish,1, $2.50 ,2.5,Online,Regular
+1127,03-02-2023,Friday,11:38,Muffin,2, $2.00 ,4,Online,Regular
+1128,06-01-2023,Friday,09:34,Juice,2, $3.00 ,6,Online,Regular
+1129,22-02-2023,Wednesday,10:39,Tea,2, $2.50 ,5,Card,Regular
+1130,07-03-2023,Tuesday,14:57,Donut,1, $1.50 ,1.5,Cash,New
+1131,18-03-2023,Saturday,13:38,Brownie,3, $2.50 ,7.5,Online,Regular
+1132,12-02-2023,Sunday,16:49,Donut,2, $1.50 ,3,Cash,New
+1133,16-03-2023,Thursday,12:05,Bagel,2, $2.00 ,4,Card,Regular
+1134,23-01-2023,Monday,16:19,Bagel,3, $2.00 ,6,Cash,Regular
+1135,24-02-2023,Friday,11:39,Donut,2, $1.50 ,3,Cash,Regular
+1136,21-03-2023,Tuesday,18:24,Whole Wheat Bread,2, $3.50 ,7,Online,Regular
+1137,05-04-2023,Wednesday,14:58,Brownie,1, $2.50 ,2.5,Online,Regular
+1138,16-03-2023,Thursday,13:43,Sourdough,3, $4.00 ,12,Online,Regular
+1139,16-01-2023,Monday,17:58,Donut,1, $1.50 ,1.5,Card,Regular
+1140,08-01-2023,Sunday,11:26,Donut,2, $1.50 ,3,Cash,Regular
+1141,04-01-2023,Wednesday,12:45,Bagel,2, $2.00 ,4,Card,New
+1142,04-01-2023,Wednesday,14:11,Croissant,1, $2.50 ,2.5,Card,Regular
+1143,25-02-2023,Saturday,16:12,Coffee,2, $3.00 ,6,Cash,Regular
+1144,25-01-2023,Wednesday,18:07,Coffee,1, $3.00 ,3,Cash,Regular
+1145,08-03-2023,Wednesday,07:20,Sourdough,1, $4.00 ,4,Cash,Regular
+1146,06-04-2023,Thursday,18:25,Tea,3, $2.50 ,7.5,Cash,Regular
+1147,08-03-2023,Wednesday,11:22,Bagel,2, $2.00 ,4,Cash,Regular
+1148,27-01-2023,Friday,08:57,Bagel,1, $2.00 ,2,Card,Regular
+1149,03-04-2023,Monday,07:26,Brownie,2, $2.50 ,5,Online,Regular
+1150,01-02-2023,Wednesday,13:24,Donut,3, $1.50 ,4.5,Cash,Regular
+1151,19-02-2023,Sunday,18:47,Cookie,3, $1.50 ,4.5,Cash,Regular
+1152,02-03-2023,Thursday,12:08,Cookie,3, $1.50 ,4.5,Online,New
+1153,20-02-2023,Monday,16:39,Bagel,1, $2.00 ,2,Card,Regular
+1154,19-01-2023,Thursday,18:17,Muffin,1, $2.00 ,2,Online,Regular
+1155,21-01-2023,Saturday,07:12,Cookie,2, $1.50 ,3,Card,Regular
+1156,05-01-2023,Thursday,13:10,Whole Wheat Bread,2, $3.50 ,7,Online,Regular
+1157,23-03-2023,Thursday,10:00,Sandwich,3, $5.00 ,15,Online,Regular
+1158,02-04-2023,Sunday,16:11,Bagel,2, $2.00 ,4,Card,Regular
+1159,11-02-2023,Saturday,17:06,Croissant,2, $2.50 ,5,Cash,New
+1160,02-03-2023,Thursday,08:28,Croissant,2, $2.50 ,5,Cash,New
+1161,22-01-2023,Sunday,16:43,Sourdough,3, $4.00 ,12,Card,Regular
+1162,21-01-2023,Saturday,15:26,Cookie,2, $1.50 ,3,Cash,Regular
+1163,11-03-2023,Saturday,13:03,Bagel,2, $2.00 ,4,Card,Regular
+1164,01-01-2023,Sunday,17:10,Sandwich,2, $5.00 ,10,Online,Regular
+1165,05-01-2023,Thursday,10:15,Tea,1, $2.50 ,2.5,Online,Regular
+1166,12-01-2023,Thursday,16:28,Bagel,1, $2.00 ,2,Online,Regular
+1167,31-03-2023,Friday,15:22,Danish,1, $2.50 ,2.5,Cash,Regular
+1168,15-02-2023,Wednesday,13:54,Sandwich,1, $5.00 ,5,Card,Regular
+1169,03-02-2023,Friday,15:04,Baguette,3, $3.00 ,9,Card,Regular
+1170,18-02-2023,Saturday,16:23,Muffin,2, $2.00 ,4,Online,Regular
+1171,19-03-2023,Sunday,12:13,Croissant,1, $2.50 ,2.5,Cash,New
+1172,31-03-2023,Friday,12:23,Tea,3, $2.50 ,7.5,Online,New
+1173,14-02-2023,Tuesday,18:46,Hot Chocolate,1, $3.50 ,3.5,Cash,New
+1174,27-01-2023,Friday,11:43,Sandwich,3, $5.00 ,15,Online,Regular
+1175,14-03-2023,Tuesday,08:42,Cookie,1, $1.50 ,1.5,Card,Regular
+1176,26-01-2023,Thursday,10:03,Croissant,1, $2.50 ,2.5,Online,Regular
+1177,16-02-2023,Thursday,11:40,Coffee,1, $3.00 ,3,Online,Regular
+1178,27-03-2023,Monday,09:09,Whole Wheat Bread,2, $3.50 ,7,Cash,New
+1179,25-02-2023,Saturday,16:47,Croissant,2, $2.50 ,5,Card,Regular
+1180,04-04-2023,Tuesday,10:08,Coffee,2, $3.00 ,6,Card,Regular
+1181,04-03-2023,Saturday,08:06,Donut,2, $1.50 ,3,Cash,Regular
+1182,17-02-2023,Friday,18:42,Coffee,1, $3.00 ,3,Cash,New
+1183,02-03-2023,Thursday,12:11,Tea,1, $2.50 ,2.5,Cash,Regular
+1184,22-03-2023,Wednesday,14:06,Sourdough,3, $4.00 ,12,Online,Regular
+1185,26-01-2023,Thursday,15:55,Donut,2, $1.50 ,3,Card,Regular
+1186,05-02-2023,Sunday,17:02,Donut,2, $1.50 ,3,Online,Regular
+1187,01-01-2023,Sunday,17:24,Sandwich,1, $5.00 ,5,Cash,Regular
+1188,08-01-2023,Sunday,11:30,Whole Wheat Bread,1, $3.50 ,3.5,Cash,Regular
+1189,09-04-2023,Sunday,16:25,Tea,1, $2.50 ,2.5,Cash,Regular
+1190,21-02-2023,Tuesday,18:45,Sourdough,2, $4.00 ,8,Card,Regular
+1191,20-03-2023,Monday,11:55,Sandwich,2, $5.00 ,10,Online,New
+1192,16-02-2023,Thursday,08:12,Whole Wheat Bread,1, $3.50 ,3.5,Card,New
+1193,25-02-2023,Saturday,17:40,Sourdough,3, $4.00 ,12,Cash,Regular
+1194,27-03-2023,Monday,16:17,Juice,3, $3.00 ,9,Cash,New
+1195,14-01-2023,Saturday,09:25,Tea,1, $2.50 ,2.5,Cash,New
+1196,31-03-2023,Friday,17:09,Sandwich,3, $5.00 ,15,Card,Regular
+1197,28-01-2023,Saturday,14:59,Sandwich,2, $5.00 ,10,Online,Regular
+1198,28-03-2023,Tuesday,11:38,Baguette,3, $3.00 ,9,Card,Regular
+1199,19-03-2023,Sunday,17:12,Coffee,2, $3.00 ,6,Online,Regular
+1200,29-03-2023,Wednesday,11:16,Coffee,1, $3.00 ,3,Cash,New
+1201,02-01-2023,Monday,16:49,Sourdough,1, $4.00 ,4,Online,New
+1202,26-01-2023,Thursday,16:50,Coffee,1, $3.00 ,3,Card,Regular
+1203,14-01-2023,Saturday,14:32,Brownie,2, $2.50 ,5,Cash,New
+1204,28-02-2023,Tuesday,14:26,Whole Wheat Bread,2, $3.50 ,7,Cash,Regular
+1205,25-02-2023,Saturday,13:58,Muffin,2, $2.00 ,4,Online,Regular
+1206,07-01-2023,Saturday,09:44,Muffin,2, $2.00 ,4,Online,Regular
+1207,03-01-2023,Tuesday,18:18,Donut,3, $1.50 ,4.5,Cash,Regular
+1208,23-01-2023,Monday,12:22,Croissant,2, $2.50 ,5,Cash,New
+1209,18-01-2023,Wednesday,13:53,Cookie,3, $1.50 ,4.5,Cash,Regular
+1210,07-02-2023,Tuesday,16:15,Danish,2, $2.50 ,5,Cash,Regular
+1211,09-04-2023,Sunday,13:10,Sourdough,2, $4.00 ,8,Online,Regular
+1212,15-01-2023,Sunday,10:28,Croissant,3, $2.50 ,7.5,Cash,New
+1213,05-03-2023,Sunday,14:28,Brownie,3, $2.50 ,7.5,Card,Regular
+1214,30-03-2023,Thursday,17:45,Sourdough,1, $4.00 ,4,Online,Regular
+1215,28-01-2023,Saturday,16:24,Coffee,3, $3.00 ,9,Card,Regular
+1216,15-03-2023,Wednesday,08:56,Danish,1, $2.50 ,2.5,Online,New
+1217,08-02-2023,Wednesday,15:30,Brownie,3, $2.50 ,7.5,Card,Regular
+1218,26-02-2023,Sunday,11:39,Donut,2, $1.50 ,3,Card,Regular
+1219,17-01-2023,Tuesday,16:24,Hot Chocolate,2, $3.50 ,7,Cash,New
+1220,27-03-2023,Monday,15:40,Sandwich,1, $5.00 ,5,Cash,Regular
+1221,31-03-2023,Friday,14:04,Muffin,3, $2.00 ,6,Card,New
+1222,13-02-2023,Monday,11:49,Sandwich,2, $5.00 ,10,Online,Regular
+1223,25-01-2023,Wednesday,18:15,Danish,1, $2.50 ,2.5,Card,Regular
+1224,17-01-2023,Tuesday,12:53,Muffin,3, $2.00 ,6,Online,Regular
+1225,13-01-2023,Friday,12:29,Cookie,1, $1.50 ,1.5,Online,Regular
+1226,25-03-2023,Saturday,13:32,Juice,2, $3.00 ,6,Cash,Regular
+1227,25-01-2023,Wednesday,15:04,Sandwich,2, $5.00 ,10,Card,New
+1228,09-03-2023,Thursday,18:07,Hot Chocolate,2, $3.50 ,7,Cash,Regular
+1229,10-01-2023,Tuesday,17:04,Muffin,1, $2.00 ,2,Card,Regular
+1230,08-03-2023,Wednesday,14:47,Coffee,3, $3.00 ,9,Cash,Regular
+1231,18-01-2023,Wednesday,18:10,Hot Chocolate,1, $3.50 ,3.5,Card,New
+1232,10-04-2023,Monday,11:31,Muffin,3, $2.00 ,6,Online,Regular
+1233,27-03-2023,Monday,08:22,Cookie,2, $1.50 ,3,Online,New
+1234,03-02-2023,Friday,13:29,Muffin,3, $2.00 ,6,Online,New
+1235,08-01-2023,Sunday,16:14,Coffee,3, $3.00 ,9,Cash,Regular
+1236,09-02-2023,Thursday,18:40,Brownie,2, $2.50 ,5,Cash,New
+1237,24-03-2023,Friday,14:24,Tea,3, $2.50 ,7.5,Online,New
+1238,11-02-2023,Saturday,14:34,Hot Chocolate,3, $3.50 ,10.5,Card,New
+1239,10-02-2023,Friday,07:47,Muffin,1, $2.00 ,2,Card,Regular
+1240,06-01-2023,Friday,14:21,Hot Chocolate,1, $3.50 ,3.5,Online,Regular
+1241,21-02-2023,Tuesday,18:38,Bagel,1, $2.00 ,2,Cash,Regular
+1242,26-01-2023,Thursday,17:24,Cookie,2, $1.50 ,3,Online,Regular
+1243,05-03-2023,Sunday,15:29,Brownie,3, $2.50 ,7.5,Cash,Regular
+1244,08-04-2023,Saturday,17:53,Croissant,2, $2.50 ,5,Card,Regular
+1245,28-02-2023,Tuesday,14:56,Brownie,2, $2.50 ,5,Online,Regular
+1246,25-02-2023,Saturday,08:15,Danish,2, $2.50 ,5,Online,Regular
+1247,28-02-2023,Tuesday,14:14,Sandwich,2, $5.00 ,10,Card,New
+1248,11-03-2023,Saturday,10:23,Donut,2, $1.50 ,3,Cash,Regular
+1249,02-02-2023,Thursday,16:45,Muffin,3, $2.00 ,6,Card,New
+1250,22-02-2023,Wednesday,12:02,Coffee,3, $3.00 ,9,Card,Regular
+1251,22-01-2023,Sunday,16:39,Cookie,3, $1.50 ,4.5,Online,New
+1252,21-01-2023,Saturday,17:20,Sandwich,2, $5.00 ,10,Card,New
+1253,11-03-2023,Saturday,10:55,Sourdough,2, $4.00 ,8,Cash,Regular
+1254,11-03-2023,Saturday,17:35,Croissant,3, $2.50 ,7.5,Online,New
+1255,04-01-2023,Wednesday,18:37,Cookie,1, $1.50 ,1.5,Online,Regular
+1256,04-04-2023,Tuesday,17:42,Whole Wheat Bread,1, $3.50 ,3.5,Card,New
+1257,16-03-2023,Thursday,07:34,Sourdough,2, $4.00 ,8,Online,Regular
+1258,03-03-2023,Friday,12:02,Muffin,3, $2.00 ,6,Card,Regular
+1259,03-03-2023,Friday,09:15,Bagel,3, $2.00 ,6,Card,Regular
+1260,04-04-2023,Tuesday,11:39,Cookie,1, $1.50 ,1.5,Card,New
+1261,05-04-2023,Wednesday,15:13,Bagel,2, $2.00 ,4,Online,New
+1262,24-01-2023,Tuesday,08:57,Danish,1, $2.50 ,2.5,Cash,New
+1263,24-02-2023,Friday,10:51,Cookie,3, $1.50 ,4.5,Online,Regular
+1264,09-01-2023,Monday,13:46,Cookie,3, $1.50 ,4.5,Card,Regular
+1265,03-01-2023,Tuesday,13:44,Coffee,2, $3.00 ,6,Online,Regular
+1266,31-01-2023,Tuesday,13:17,Whole Wheat Bread,3, $3.50 ,10.5,Online,Regular
+1267,09-02-2023,Thursday,13:30,Cookie,3, $1.50 ,4.5,Card,Regular
+1268,05-02-2023,Sunday,10:59,Danish,1, $2.50 ,2.5,Online,New
+1269,24-01-2023,Tuesday,16:34,Muffin,3, $2.00 ,6,Cash,Regular
+1270,05-04-2023,Wednesday,17:50,Cookie,2, $1.50 ,3,Online,Regular
+1271,06-01-2023,Friday,13:58,Tea,1, $2.50 ,2.5,Cash,New
+1272,07-03-2023,Tuesday,12:11,Danish,1, $2.50 ,2.5,Cash,Regular
+1273,25-03-2023,Saturday,16:10,Hot Chocolate,2, $3.50 ,7,Card,Regular
+1274,02-04-2023,Sunday,18:53,Baguette,2, $3.00 ,6,Online,New
+1275,16-03-2023,Thursday,09:38,Brownie,2, $2.50 ,5,Online,Regular
+1276,04-01-2023,Wednesday,15:21,Sourdough,2, $4.00 ,8,Card,Regular
+1277,20-03-2023,Monday,13:19,Juice,2, $3.00 ,6,Card,New
+1278,06-01-2023,Friday,13:11,Tea,3, $2.50 ,7.5,Card,Regular
+1279,04-04-2023,Tuesday,18:00,Muffin,1, $2.00 ,2,Card,Regular
+1280,20-02-2023,Monday,09:05,Cookie,2, $1.50 ,3,Cash,Regular
+1281,03-03-2023,Friday,17:57,Whole Wheat Bread,3, $3.50 ,10.5,Cash,Regular
+1282,26-02-2023,Sunday,12:41,Juice,1, $3.00 ,3,Online,Regular
+1283,07-03-2023,Tuesday,16:27,Juice,3, $3.00 ,9,Cash,New
+1284,20-03-2023,Monday,10:58,Muffin,1, $2.00 ,2,Online,Regular
+1285,16-03-2023,Thursday,09:28,Hot Chocolate,3, $3.50 ,10.5,Card,New
+1286,08-01-2023,Sunday,18:16,Cookie,1, $1.50 ,1.5,Cash,Regular
+1287,26-01-2023,Thursday,11:03,Sourdough,2, $4.00 ,8,Cash,Regular
+1288,20-02-2023,Monday,07:53,Hot Chocolate,3, $3.50 ,10.5,Card,Regular
+1289,14-02-2023,Tuesday,08:05,Danish,2, $2.50 ,5,Card,Regular
+1290,13-02-2023,Monday,08:51,Danish,3, $2.50 ,7.5,Cash,New
+1291,05-01-2023,Thursday,07:44,Sandwich,3, $5.00 ,15,Online,Regular
+1292,11-03-2023,Saturday,17:58,Coffee,1, $3.00 ,3,Card,New
+1293,26-01-2023,Thursday,14:16,Whole Wheat Bread,1, $3.50 ,3.5,Card,New
+1294,09-03-2023,Thursday,14:34,Tea,1, $2.50 ,2.5,Card,Regular
+1295,19-01-2023,Thursday,08:07,Hot Chocolate,2, $3.50 ,7,Online,Regular
+1296,25-03-2023,Saturday,16:21,Sandwich,2, $5.00 ,10,Card,New
+1297,07-04-2023,Friday,16:03,Croissant,2, $2.50 ,5,Online,Regular
+1298,20-01-2023,Friday,08:41,Bagel,3, $2.00 ,6,Cash,New
+1299,12-01-2023,Thursday,18:06,Brownie,3, $2.50 ,7.5,Online,New
+1300,16-02-2023,Thursday,14:20,Danish,1, $2.50 ,2.5,Card,Regular
+1301,01-01-2023,Sunday,14:44,Donut,2, $1.50 ,3,Online,Regular
+1302,31-03-2023,Friday,14:17,Muffin,3, $2.00 ,6,Card,Regular
+1303,14-01-2023,Saturday,09:36,Whole Wheat Bread,2, $3.50 ,7,Cash,Regular
+1304,05-03-2023,Sunday,08:27,Tea,2, $2.50 ,5,Cash,New
+1305,07-02-2023,Tuesday,13:21,Bagel,1, $2.00 ,2,Online,Regular
+1306,06-02-2023,Monday,16:35,Baguette,2, $3.00 ,6,Online,Regular
+1307,11-01-2023,Wednesday,13:02,Cookie,3, $1.50 ,4.5,Card,New
+1308,10-04-2023,Monday,07:52,Croissant,3, $2.50 ,7.5,Card,Regular
+1309,18-03-2023,Saturday,16:51,Baguette,1, $3.00 ,3,Cash,Regular
+1310,03-01-2023,Tuesday,10:49,Cookie,1, $1.50 ,1.5,Card,New
+1311,02-02-2023,Thursday,13:16,Tea,2, $2.50 ,5,Online,Regular
+1312,06-01-2023,Friday,14:19,Cookie,3, $1.50 ,4.5,Online,Regular
+1313,19-02-2023,Sunday,07:26,Sourdough,3, $4.00 ,12,Online,Regular
+1314,10-01-2023,Tuesday,10:04,Croissant,3, $2.50 ,7.5,Card,New
+1315,05-01-2023,Thursday,12:59,Coffee,1, $3.00 ,3,Cash,Regular
+1316,23-01-2023,Monday,13:50,Tea,1, $2.50 ,2.5,Online,Regular
+1317,10-01-2023,Tuesday,07:31,Tea,3, $2.50 ,7.5,Online,Regular
+1318,13-02-2023,Monday,14:09,Danish,2, $2.50 ,5,Cash,Regular
+1319,02-01-2023,Monday,12:32,Bagel,3, $2.00 ,6,Online,Regular
+1320,13-01-2023,Friday,07:53,Hot Chocolate,1, $3.50 ,3.5,Online,Regular
+1321,09-02-2023,Thursday,08:23,Croissant,2, $2.50 ,5,Online,Regular
+1322,02-01-2023,Monday,17:21,Danish,2, $2.50 ,5,Card,Regular
+1323,25-03-2023,Saturday,15:44,Tea,2, $2.50 ,5,Card,Regular
+1324,06-03-2023,Monday,18:34,Whole Wheat Bread,3, $3.50 ,10.5,Card,Regular
+1325,04-03-2023,Saturday,12:15,Coffee,1, $3.00 ,3,Card,New
+1326,14-03-2023,Tuesday,07:56,Coffee,1, $3.00 ,3,Card,New
+1327,17-01-2023,Tuesday,09:20,Bagel,2, $2.00 ,4,Card,Regular
+1328,09-01-2023,Monday,07:07,Danish,3, $2.50 ,7.5,Card,Regular
+1329,16-03-2023,Thursday,13:29,Baguette,3, $3.00 ,9,Cash,Regular
+1330,15-01-2023,Sunday,18:24,Bagel,2, $2.00 ,4,Cash,Regular
+1331,24-01-2023,Tuesday,07:43,Donut,1, $1.50 ,1.5,Card,New
+1332,07-02-2023,Tuesday,12:20,Sourdough,2, $4.00 ,8,Online,Regular
+1333,04-02-2023,Saturday,17:55,Donut,2, $1.50 ,3,Cash,Regular
+1334,04-04-2023,Tuesday,12:32,Hot Chocolate,3, $3.50 ,10.5,Card,New
+1335,05-04-2023,Wednesday,13:10,Tea,2, $2.50 ,5,Cash,Regular
+1336,18-02-2023,Saturday,17:03,Donut,3, $1.50 ,4.5,Cash,Regular
+1337,10-03-2023,Friday,12:17,Sandwich,2, $5.00 ,10,Cash,Regular
+1338,03-03-2023,Friday,09:52,Tea,3, $2.50 ,7.5,Online,Regular
+1339,01-03-2023,Wednesday,15:42,Juice,2, $3.00 ,6,Card,New
+1340,19-02-2023,Sunday,18:00,Cookie,1, $1.50 ,1.5,Cash,Regular
+1341,19-03-2023,Sunday,11:22,Juice,1, $3.00 ,3,Online,Regular
+1342,16-03-2023,Thursday,18:11,Tea,1, $2.50 ,2.5,Online,Regular
+1343,09-01-2023,Monday,16:37,Bagel,3, $2.00 ,6,Card,Regular
+1344,03-02-2023,Friday,16:38,Whole Wheat Bread,3, $3.50 ,10.5,Online,Regular
+1345,17-03-2023,Friday,17:42,Muffin,1, $2.00 ,2,Card,Regular
+1346,09-04-2023,Sunday,14:32,Whole Wheat Bread,2, $3.50 ,7,Card,Regular
+1347,04-02-2023,Saturday,13:00,Baguette,1, $3.00 ,3,Card,Regular
+1348,01-01-2023,Sunday,07:38,Coffee,2, $3.00 ,6,Card,Regular
+1349,09-02-2023,Thursday,08:32,Sourdough,3, $4.00 ,12,Online,Regular
+1350,05-03-2023,Sunday,16:54,Baguette,3, $3.00 ,9,Cash,Regular
+1351,22-01-2023,Sunday,16:45,Whole Wheat Bread,1, $3.50 ,3.5,Card,Regular
+1352,01-03-2023,Wednesday,15:33,Hot Chocolate,1, $3.50 ,3.5,Card,Regular
+1353,05-03-2023,Sunday,12:51,Sandwich,1, $5.00 ,5,Online,Regular
+1354,03-04-2023,Monday,07:40,Juice,3, $3.00 ,9,Card,New
+1355,13-03-2023,Monday,15:56,Baguette,3, $3.00 ,9,Cash,Regular
+1356,11-01-2023,Wednesday,11:49,Donut,2, $1.50 ,3,Card,Regular
+1357,14-01-2023,Saturday,07:53,Bagel,3, $2.00 ,6,Online,Regular
+1358,01-03-2023,Wednesday,12:37,Tea,3, $2.50 ,7.5,Online,Regular
+1359,30-01-2023,Monday,11:18,Sandwich,3, $5.00 ,15,Online,New
+1360,04-02-2023,Saturday,12:41,Tea,3, $2.50 ,7.5,Online,Regular
+1361,26-03-2023,Sunday,12:58,Croissant,3, $2.50 ,7.5,Online,Regular
+1362,06-02-2023,Monday,09:12,Sourdough,3, $4.00 ,12,Cash,Regular
+1363,05-01-2023,Thursday,13:25,Whole Wheat Bread,2, $3.50 ,7,Cash,Regular
+1364,24-03-2023,Friday,18:41,Brownie,3, $2.50 ,7.5,Cash,Regular
+1365,19-03-2023,Sunday,14:13,Baguette,2, $3.00 ,6,Cash,Regular
+1366,26-01-2023,Thursday,10:04,Juice,2, $3.00 ,6,Card,Regular
+1367,03-03-2023,Friday,09:20,Hot Chocolate,1, $3.50 ,3.5,Card,New
+1368,04-01-2023,Wednesday,15:39,Bagel,3, $2.00 ,6,Online,New
+1369,30-03-2023,Thursday,07:38,Whole Wheat Bread,2, $3.50 ,7,Online,Regular
+1370,11-02-2023,Saturday,13:25,Hot Chocolate,1, $3.50 ,3.5,Cash,New
+1371,30-03-2023,Thursday,17:39,Bagel,1, $2.00 ,2,Online,Regular
+1372,18-01-2023,Wednesday,14:00,Muffin,3, $2.00 ,6,Online,Regular
+1373,09-02-2023,Thursday,14:34,Sourdough,2, $4.00 ,8,Online,New
+1374,13-03-2023,Monday,10:59,Baguette,1, $3.00 ,3,Card,New
+1375,08-02-2023,Wednesday,15:00,Brownie,1, $2.50 ,2.5,Card,Regular
+1376,14-01-2023,Saturday,16:44,Danish,2, $2.50 ,5,Card,New
+1377,01-02-2023,Wednesday,15:34,Baguette,2, $3.00 ,6,Cash,New
+1378,20-02-2023,Monday,17:19,Hot Chocolate,2, $3.50 ,7,Cash,Regular
+1379,07-02-2023,Tuesday,13:20,Baguette,1, $3.00 ,3,Online,New
+1380,07-04-2023,Friday,09:07,Croissant,1, $2.50 ,2.5,Cash,Regular
+1381,23-01-2023,Monday,15:45,Hot Chocolate,2, $3.50 ,7,Cash,New
+1382,04-03-2023,Saturday,10:47,Cookie,2, $1.50 ,3,Card,New
+1383,15-01-2023,Sunday,14:04,Coffee,2, $3.00 ,6,Online,Regular
+1384,07-04-2023,Friday,13:35,Tea,2, $2.50 ,5,Cash,Regular
+1385,25-01-2023,Wednesday,08:41,Cookie,3, $1.50 ,4.5,Online,Regular
+1386,17-01-2023,Tuesday,09:29,Hot Chocolate,1, $3.50 ,3.5,Card,New
+1387,07-04-2023,Friday,15:03,Sandwich,1, $5.00 ,5,Online,Regular
+1388,07-03-2023,Tuesday,17:30,Coffee,1, $3.00 ,3,Cash,Regular
+1389,19-03-2023,Sunday,09:33,Baguette,3, $3.00 ,9,Online,Regular
+1390,22-02-2023,Wednesday,08:53,Bagel,2, $2.00 ,4,Cash,Regular
+1391,20-02-2023,Monday,07:48,Juice,2, $3.00 ,6,Online,New
+1392,08-02-2023,Wednesday,14:48,Tea,1, $2.50 ,2.5,Card,Regular
+1393,20-02-2023,Monday,07:16,Whole Wheat Bread,3, $3.50 ,10.5,Online,Regular
+1394,11-03-2023,Saturday,11:58,Donut,1, $1.50 ,1.5,Online,Regular
+1395,06-01-2023,Friday,16:44,Donut,1, $1.50 ,1.5,Online,Regular
+1396,08-03-2023,Wednesday,15:56,Muffin,1, $2.00 ,2,Online,Regular
+1397,07-01-2023,Saturday,15:39,Baguette,1, $3.00 ,3,Card,New
+1398,20-02-2023,Monday,07:44,Whole Wheat Bread,2, $3.50 ,7,Card,Regular
+1399,13-03-2023,Monday,07:16,Muffin,1, $2.00 ,2,Card,Regular
+1400,11-02-2023,Saturday,18:12,Whole Wheat Bread,1, $3.50 ,3.5,Online,New
+1401,05-03-2023,Sunday,12:40,Hot Chocolate,1, $3.50 ,3.5,Card,Regular
+1402,15-01-2023,Sunday,17:58,Hot Chocolate,3, $3.50 ,10.5,Card,New
+1403,29-01-2023,Sunday,15:10,Whole Wheat Bread,1, $3.50 ,3.5,Cash,Regular
+1404,02-02-2023,Thursday,14:48,Coffee,2, $3.00 ,6,Cash,Regular
+1405,04-04-2023,Tuesday,10:24,Brownie,1, $2.50 ,2.5,Card,New
+1406,27-01-2023,Friday,15:47,Donut,3, $1.50 ,4.5,Card,Regular
+1407,05-02-2023,Sunday,18:02,Juice,2, $3.00 ,6,Card,New
+1408,29-01-2023,Sunday,07:48,Cookie,3, $1.50 ,4.5,Card,Regular
+1409,07-02-2023,Tuesday,13:16,Donut,2, $1.50 ,3,Online,Regular
+1410,26-02-2023,Sunday,13:35,Muffin,1, $2.00 ,2,Card,Regular
+1411,07-04-2023,Friday,13:16,Brownie,3, $2.50 ,7.5,Card,New
+1412,27-01-2023,Friday,14:14,Tea,2, $2.50 ,5,Online,New
+1413,24-02-2023,Friday,10:04,Baguette,2, $3.00 ,6,Card,Regular
+1414,02-02-2023,Thursday,12:35,Whole Wheat Bread,2, $3.50 ,7,Card,Regular
+1415,09-03-2023,Thursday,14:16,Hot Chocolate,3, $3.50 ,10.5,Card,Regular
+1416,27-03-2023,Monday,07:43,Sandwich,2, $5.00 ,10,Online,New
+1417,07-03-2023,Tuesday,11:41,Whole Wheat Bread,1, $3.50 ,3.5,Cash,Regular
+1418,10-01-2023,Tuesday,13:55,Muffin,3, $2.00 ,6,Online,Regular
+1419,05-01-2023,Thursday,07:31,Hot Chocolate,3, $3.50 ,10.5,Online,New
+1420,15-03-2023,Wednesday,07:35,Hot Chocolate,1, $3.50 ,3.5,Cash,New
+1421,07-04-2023,Friday,13:15,Muffin,2, $2.00 ,4,Online,Regular
+1422,07-02-2023,Tuesday,09:37,Whole Wheat Bread,2, $3.50 ,7,Card,Regular
+1423,13-01-2023,Friday,16:47,Hot Chocolate,3, $3.50 ,10.5,Card,Regular
+1424,31-01-2023,Tuesday,18:05,Croissant,1, $2.50 ,2.5,Cash,Regular
+1425,16-02-2023,Thursday,10:10,Danish,3, $2.50 ,7.5,Card,New
+1426,10-04-2023,Monday,09:00,Croissant,2, $2.50 ,5,Online,Regular
+1427,29-03-2023,Wednesday,17:26,Croissant,3, $2.50 ,7.5,Card,Regular
+1428,21-02-2023,Tuesday,09:18,Cookie,1, $1.50 ,1.5,Card,Regular
+1429,25-02-2023,Saturday,14:35,Tea,3, $2.50 ,7.5,Card,Regular
+1430,15-01-2023,Sunday,08:06,Baguette,3, $3.00 ,9,Card,New
+1431,29-01-2023,Sunday,09:41,Sandwich,3, $5.00 ,15,Online,Regular
+1432,08-01-2023,Sunday,13:10,Baguette,1, $3.00 ,3,Cash,New
+1433,05-01-2023,Thursday,09:22,Juice,2, $3.00 ,6,Cash,Regular
+1434,29-01-2023,Sunday,16:46,Muffin,2, $2.00 ,4,Online,Regular
+1435,16-02-2023,Thursday,08:28,Tea,2, $2.50 ,5,Card,New
+1436,09-03-2023,Thursday,15:10,Baguette,2, $3.00 ,6,Card,New
+1437,17-03-2023,Friday,08:15,Hot Chocolate,2, $3.50 ,7,Online,Regular
+1438,14-02-2023,Tuesday,14:57,Whole Wheat Bread,3, $3.50 ,10.5,Card,Regular
+1439,02-01-2023,Monday,16:24,Whole Wheat Bread,3, $3.50 ,10.5,Cash,New
+1440,27-01-2023,Friday,09:12,Donut,3, $1.50 ,4.5,Cash,New
+1441,05-04-2023,Wednesday,15:50,Hot Chocolate,2, $3.50 ,7,Cash,Regular
+1442,05-02-2023,Sunday,10:50,Muffin,3, $2.00 ,6,Card,New
+1443,05-02-2023,Sunday,11:16,Juice,3, $3.00 ,9,Online,Regular
+1444,26-01-2023,Thursday,17:40,Croissant,3, $2.50 ,7.5,Online,Regular
+1445,12-02-2023,Sunday,17:56,Hot Chocolate,3, $3.50 ,10.5,Online,Regular
+1446,27-01-2023,Friday,18:14,Sourdough,3, $4.00 ,12,Online,Regular
+1447,10-03-2023,Friday,07:42,Cookie,1, $1.50 ,1.5,Cash,Regular
+1448,20-01-2023,Friday,17:56,Bagel,3, $2.00 ,6,Card,Regular
+1449,11-01-2023,Wednesday,16:45,Donut,3, $1.50 ,4.5,Online,Regular
+1450,15-03-2023,Wednesday,17:42,Baguette,2, $3.00 ,6,Online,New
+1451,07-02-2023,Tuesday,15:14,Juice,3, $3.00 ,9,Card,Regular
+1452,06-01-2023,Friday,08:14,Sandwich,1, $5.00 ,5,Cash,Regular
+1453,13-03-2023,Monday,15:15,Danish,1, $2.50 ,2.5,Card,Regular
+1454,23-01-2023,Monday,12:20,Cookie,3, $1.50 ,4.5,Card,New
+1455,16-02-2023,Thursday,12:53,Donut,1, $1.50 ,1.5,Card,Regular
+1456,31-03-2023,Friday,08:48,Muffin,1, $2.00 ,2,Card,Regular
+1457,15-02-2023,Wednesday,14:40,Juice,1, $3.00 ,3,Cash,Regular
+1458,12-01-2023,Thursday,13:33,Cookie,3, $1.50 ,4.5,Card,Regular
+1459,31-03-2023,Friday,09:43,Cookie,2, $1.50 ,3,Online,New
+1460,13-01-2023,Friday,10:14,Bagel,1, $2.00 ,2,Card,New
+1461,03-03-2023,Friday,14:58,Danish,2, $2.50 ,5,Card,Regular
+1462,23-03-2023,Thursday,13:42,Baguette,2, $3.00 ,6,Cash,Regular
+1463,30-03-2023,Thursday,13:01,Coffee,1, $3.00 ,3,Card,Regular
+1464,07-04-2023,Friday,18:09,Whole Wheat Bread,2, $3.50 ,7,Card,Regular
+1465,01-03-2023,Wednesday,08:50,Donut,1, $1.50 ,1.5,Card,New
+1466,12-02-2023,Sunday,13:52,Muffin,1, $2.00 ,2,Card,Regular
+1467,17-03-2023,Friday,16:35,Juice,2, $3.00 ,6,Online,Regular
+1468,10-04-2023,Monday,13:35,Baguette,2, $3.00 ,6,Online,Regular
+1469,09-03-2023,Thursday,17:38,Whole Wheat Bread,3, $3.50 ,10.5,Cash,Regular
+1470,05-01-2023,Thursday,08:39,Donut,2, $1.50 ,3,Card,Regular
+1471,06-02-2023,Monday,13:14,Bagel,1, $2.00 ,2,Cash,Regular
+1472,13-03-2023,Monday,13:51,Baguette,1, $3.00 ,3,Cash,Regular
+1473,02-04-2023,Sunday,12:41,Bagel,2, $2.00 ,4,Online,Regular
+1474,31-01-2023,Tuesday,17:20,Brownie,3, $2.50 ,7.5,Cash,Regular
+1475,09-01-2023,Monday,17:27,Muffin,1, $2.00 ,2,Card,New
+1476,20-02-2023,Monday,12:06,Sourdough,2, $4.00 ,8,Online,New
+1477,29-01-2023,Sunday,16:05,Danish,3, $2.50 ,7.5,Online,Regular
+1478,19-03-2023,Sunday,07:17,Muffin,2, $2.00 ,4,Online,Regular
+1479,09-02-2023,Thursday,14:06,Sourdough,2, $4.00 ,8,Online,New
+1480,10-02-2023,Friday,17:44,Coffee,3, $3.00 ,9,Card,Regular
+1481,27-03-2023,Monday,18:11,Bagel,3, $2.00 ,6,Online,Regular
+1482,11-01-2023,Wednesday,07:52,Sourdough,2, $4.00 ,8,Cash,Regular
+1483,23-01-2023,Monday,17:34,Bagel,2, $2.00 ,4,Cash,New
+1484,01-01-2023,Sunday,11:08,Coffee,3, $3.00 ,9,Online,Regular
+1485,15-02-2023,Wednesday,07:19,Danish,2, $2.50 ,5,Card,Regular
+1486,21-01-2023,Saturday,18:47,Juice,2, $3.00 ,6,Online,New
+1487,31-03-2023,Friday,15:02,Cookie,3, $1.50 ,4.5,Online,Regular
+1488,05-02-2023,Sunday,09:21,Baguette,1, $3.00 ,3,Online,Regular
+1489,23-02-2023,Thursday,18:18,Danish,3, $2.50 ,7.5,Card,Regular
+1490,28-03-2023,Tuesday,09:57,Danish,3, $2.50 ,7.5,Card,Regular
+1491,26-02-2023,Sunday,18:32,Bagel,3, $2.00 ,6,Online,Regular
+1492,01-01-2023,Sunday,18:49,Croissant,3, $2.50 ,7.5,Card,Regular
+1493,04-03-2023,Saturday,11:12,Croissant,3, $2.50 ,7.5,Card,Regular
+1494,23-02-2023,Thursday,12:04,Bagel,2, $2.00 ,4,Online,Regular
+1495,24-02-2023,Friday,15:20,Muffin,2, $2.00 ,4,Card,Regular
+1496,09-02-2023,Thursday,11:40,Croissant,1, $2.50 ,2.5,Online,Regular
+1497,15-01-2023,Sunday,13:28,Brownie,2, $2.50 ,5,Card,New
+1498,21-01-2023,Saturday,09:29,Croissant,1, $2.50 ,2.5,Card,New
+1499,16-02-2023,Thursday,08:20,Muffin,2, $2.00 ,4,Online,Regular
+1500,14-03-2023,Tuesday,15:10,Juice,1, $3.00 ,3,Online,Regular
+1501,22-02-2023,Wednesday,16:35,Sandwich,2, $5.00 ,10,Cash,Regular
+1502,09-01-2023,Monday,17:00,Juice,1, $3.00 ,3,Cash,Regular
+1503,15-03-2023,Wednesday,10:51,Whole Wheat Bread,1, $3.50 ,3.5,Cash,Regular
+1504,21-02-2023,Tuesday,12:38,Sandwich,2, $5.00 ,10,Cash,Regular
+1505,26-02-2023,Sunday,09:20,Coffee,3, $3.00 ,9,Cash,Regular
+1506,26-01-2023,Thursday,15:07,Danish,3, $2.50 ,7.5,Cash,New
+1507,10-02-2023,Friday,11:54,Muffin,2, $2.00 ,4,Online,Regular
+1508,04-02-2023,Saturday,08:31,Whole Wheat Bread,3, $3.50 ,10.5,Cash,Regular
+1509,04-03-2023,Saturday,07:38,Brownie,1, $2.50 ,2.5,Card,New
+1510,25-01-2023,Wednesday,10:00,Brownie,1, $2.50 ,2.5,Card,New
+1511,31-03-2023,Friday,10:10,Brownie,3, $2.50 ,7.5,Card,New
+1512,16-03-2023,Thursday,07:09,Croissant,3, $2.50 ,7.5,Online,Regular
+1513,07-02-2023,Tuesday,12:43,Croissant,2, $2.50 ,5,Online,Regular
+1514,02-01-2023,Monday,15:25,Brownie,1, $2.50 ,2.5,Online,Regular
+1515,07-01-2023,Saturday,10:17,Bagel,1, $2.00 ,2,Card,Regular
+1516,23-03-2023,Thursday,14:49,Whole Wheat Bread,2, $3.50 ,7,Online,Regular
+1517,01-04-2023,Saturday,12:45,Bagel,2, $2.00 ,4,Online,Regular
+1518,03-02-2023,Friday,10:17,Hot Chocolate,3, $3.50 ,10.5,Online,New
+1519,01-04-2023,Saturday,14:17,Baguette,2, $3.00 ,6,Cash,Regular
+1520,17-01-2023,Tuesday,08:37,Hot Chocolate,1, $3.50 ,3.5,Card,Regular
+1521,12-02-2023,Sunday,11:14,Coffee,2, $3.00 ,6,Card,Regular
+1522,28-02-2023,Tuesday,11:33,Muffin,2, $2.00 ,4,Online,New
+1523,20-02-2023,Monday,07:11,Croissant,3, $2.50 ,7.5,Card,Regular
+1524,23-02-2023,Thursday,08:03,Whole Wheat Bread,1, $3.50 ,3.5,Card,Regular
+1525,24-01-2023,Tuesday,13:55,Whole Wheat Bread,3, $3.50 ,10.5,Online,New
+1526,25-01-2023,Wednesday,18:46,Tea,3, $2.50 ,7.5,Card,Regular
+1527,12-03-2023,Sunday,10:46,Juice,1, $3.00 ,3,Card,Regular
+1528,21-02-2023,Tuesday,17:20,Muffin,2, $2.00 ,4,Online,Regular
+1529,11-03-2023,Saturday,15:02,Bagel,3, $2.00 ,6,Online,New
+1530,29-03-2023,Wednesday,11:13,Whole Wheat Bread,3, $3.50 ,10.5,Cash,Regular
+1531,02-02-2023,Thursday,16:00,Sandwich,2, $5.00 ,10,Cash,New
+1532,18-02-2023,Saturday,08:54,Coffee,3, $3.00 ,9,Online,Regular
+1533,29-01-2023,Sunday,16:09,Hot Chocolate,1, $3.50 ,3.5,Card,New
+1534,04-03-2023,Saturday,14:32,Tea,3, $2.50 ,7.5,Cash,New
+1535,22-01-2023,Sunday,15:20,Tea,3, $2.50 ,7.5,Card,New
+1536,26-01-2023,Thursday,14:44,Hot Chocolate,3, $3.50 ,10.5,Card,Regular
+1537,28-01-2023,Saturday,07:59,Baguette,2, $3.00 ,6,Online,New
+1538,26-03-2023,Sunday,07:22,Donut,2, $1.50 ,3,Cash,New
+1539,18-02-2023,Saturday,16:52,Tea,1, $2.50 ,2.5,Card,Regular
+1540,12-03-2023,Sunday,08:05,Baguette,1, $3.00 ,3,Cash,New
+1541,22-03-2023,Wednesday,15:03,Coffee,2, $3.00 ,6,Card,Regular
+1542,25-03-2023,Saturday,09:18,Bagel,3, $2.00 ,6,Online,Regular
+1543,18-02-2023,Saturday,14:10,Muffin,2, $2.00 ,4,Card,New
+1544,20-01-2023,Friday,13:26,Donut,1, $1.50 ,1.5,Online,New
+1545,27-03-2023,Monday,16:12,Hot Chocolate,3, $3.50 ,10.5,Card,Regular
+1546,02-04-2023,Sunday,16:10,Donut,3, $1.50 ,4.5,Cash,New
+1547,04-03-2023,Saturday,10:48,Cookie,1, $1.50 ,1.5,Cash,New
+1548,02-03-2023,Thursday,14:54,Whole Wheat Bread,3, $3.50 ,10.5,Online,Regular
+1549,18-02-2023,Saturday,13:28,Cookie,1, $1.50 ,1.5,Cash,Regular
+1550,12-03-2023,Sunday,09:38,Croissant,1, $2.50 ,2.5,Online,New
+1551,01-01-2023,Sunday,07:32,Bagel,3, $2.00 ,6,Card,Regular
+1552,06-04-2023,Thursday,07:16,Juice,1, $3.00 ,3,Cash,Regular
+1553,13-01-2023,Friday,07:34,Danish,3, $2.50 ,7.5,Online,New
+1554,04-04-2023,Tuesday,07:49,Juice,3, $3.00 ,9,Cash,Regular
+1555,28-03-2023,Tuesday,10:59,Baguette,1, $3.00 ,3,Cash,Regular
+1556,20-02-2023,Monday,10:59,Cookie,3, $1.50 ,4.5,Online,Regular
+1557,25-02-2023,Saturday,17:12,Bagel,3, $2.00 ,6,Card,Regular
+1558,24-03-2023,Friday,09:26,Whole Wheat Bread,3, $3.50 ,10.5,Cash,Regular
+1559,03-03-2023,Friday,11:41,Coffee,3, $3.00 ,9,Online,New
+1560,01-02-2023,Wednesday,09:59,Whole Wheat Bread,3, $3.50 ,10.5,Card,Regular
+1561,30-01-2023,Monday,07:48,Muffin,3, $2.00 ,6,Online,Regular
+1562,29-01-2023,Sunday,15:57,Muffin,3, $2.00 ,6,Card,Regular
+1563,18-02-2023,Saturday,12:07,Donut,1, $1.50 ,1.5,Online,Regular
+1564,14-02-2023,Tuesday,10:50,Croissant,3, $2.50 ,7.5,Cash,New
+1565,03-04-2023,Monday,07:59,Baguette,2, $3.00 ,6,Card,Regular
+1566,30-01-2023,Monday,09:17,Donut,1, $1.50 ,1.5,Card,Regular
+1567,16-01-2023,Monday,18:02,Tea,2, $2.50 ,5,Card,Regular
+1568,09-02-2023,Thursday,10:15,Coffee,2, $3.00 ,6,Card,Regular
+1569,19-01-2023,Thursday,17:17,Coffee,1, $3.00 ,3,Cash,New
+1570,18-01-2023,Wednesday,17:01,Sandwich,3, $5.00 ,15,Online,Regular
+1571,01-01-2023,Sunday,10:33,Cookie,2, $1.50 ,3,Card,New
+1572,19-03-2023,Sunday,07:15,Juice,1, $3.00 ,3,Online,Regular
+1573,16-02-2023,Thursday,15:10,Brownie,1, $2.50 ,2.5,Online,Regular
+1574,07-03-2023,Tuesday,10:29,Donut,1, $1.50 ,1.5,Online,Regular
+1575,02-04-2023,Sunday,11:49,Donut,2, $1.50 ,3,Online,Regular
+1576,04-04-2023,Tuesday,12:15,Croissant,2, $2.50 ,5,Online,New
+1577,07-02-2023,Tuesday,14:57,Tea,3, $2.50 ,7.5,Card,New
+1578,20-02-2023,Monday,12:27,Brownie,1, $2.50 ,2.5,Card,Regular
+1579,04-03-2023,Saturday,07:46,Sourdough,1, $4.00 ,4,Online,Regular
+1580,04-01-2023,Wednesday,11:27,Baguette,3, $3.00 ,9,Online,New
+1581,01-01-2023,Sunday,12:02,Hot Chocolate,1, $3.50 ,3.5,Card,Regular
+1582,08-01-2023,Sunday,16:43,Cookie,1, $1.50 ,1.5,Card,Regular
+1583,29-01-2023,Sunday,18:41,Muffin,2, $2.00 ,4,Card,New
+1584,24-02-2023,Friday,17:57,Sandwich,2, $5.00 ,10,Card,Regular
+1585,03-01-2023,Tuesday,13:00,Hot Chocolate,1, $3.50 ,3.5,Online,Regular
+1586,01-02-2023,Wednesday,10:08,Brownie,3, $2.50 ,7.5,Online,New
+1587,10-01-2023,Tuesday,15:56,Coffee,1, $3.00 ,3,Online,Regular
+1588,15-03-2023,Wednesday,07:06,Donut,1, $1.50 ,1.5,Online,Regular
+1589,24-03-2023,Friday,09:34,Coffee,1, $3.00 ,3,Online,Regular
+1590,03-02-2023,Friday,08:01,Sourdough,3, $4.00 ,12,Online,New
+1591,07-04-2023,Friday,15:14,Whole Wheat Bread,2, $3.50 ,7,Cash,Regular
+1592,28-03-2023,Tuesday,16:24,Donut,1, $1.50 ,1.5,Cash,Regular
+1593,24-02-2023,Friday,11:41,Baguette,2, $3.00 ,6,Cash,Regular
