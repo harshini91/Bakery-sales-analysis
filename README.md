@@ -37,9 +37,6 @@ This project analyzes a dataset of bakery transactions and demonstrates how both
 - **Communication:** Presenting insights in plain business language.  
 - **Design Thinking:** Using a bakery-inspired color palette and icons for relatability.  
 
-## 📊 Dashboard Preview  
-(*Insert screenshots or link to PDF of the dashboard*)  
-
 ## 🚀 Next Steps  
 - Predictive modeling (demand forecasting).  
 - Customer segmentation for targeted offers.  
